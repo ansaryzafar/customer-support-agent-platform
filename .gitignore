@@ -17,3 +17,6 @@ build/
 *.log
 .coverage
 htmlcov/
+
+# Internal planning/architecture notes — not published to the public repo
+docs/

@@ -41,7 +41,3 @@ phases.
 - `backend/` — FastAPI app, agent loop, tools, DB.
 - `frontend/` — chat UI + (later) operator console.
 - `evals/` — golden test cases + eval runner (Phase 3+).
-- `docs/` — scope doc, phase TODOs, code review files.
-
-## Where you are
-Check `docs/PHASE-1-TODOS.md` for the current phase's tasks.
